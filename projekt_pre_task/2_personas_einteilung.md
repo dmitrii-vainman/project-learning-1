@@ -19,6 +19,8 @@ Alexander
 
 Jihen
 
+Dima
+
 ### Design-Lead:
 
 Ilona
