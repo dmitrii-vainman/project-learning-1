@@ -25,6 +25,8 @@ Jihen
 
 Sima
 
+Dima
+
 ### Design-Lead:
 
 Ilona
